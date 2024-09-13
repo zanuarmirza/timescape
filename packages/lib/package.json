@@ -1,5 +1,5 @@
 {
-  "name": "timescape",
+  "name": "@zamiru/timescape",
   "license": "MIT",
   "version": "0.5.1",
   "description": "A flexible, headless date and time input library for JavaScript. Provides tools for building fully customizable date and time input fields, with support for libraries like React, Preact, Vue, Svelte and Solid.",
